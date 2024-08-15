@@ -1,2 +1,2 @@
 ## This is a comment part. 
-print("Hello World!")
+print("Hello Python!")
